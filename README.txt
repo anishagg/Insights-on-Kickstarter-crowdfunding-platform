@@ -1,0 +1,1 @@
+Data exploration on kickstarter data from kaggle
